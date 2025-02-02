@@ -1,8 +1,6 @@
 # Task
 Fortune Wheel Demo for Vertigo Games
---------------------
-
--Wheels can be configured via editor (on WheelManager gameobject on the scene)
+-
 
 Structure / Design:
 --------------------------
@@ -38,6 +36,8 @@ and used item ID's as an index for this array. (for example gold item id = 3, so
 *all rewards on wheels have Chance value, makes it possible to make some items even harder to acquire (basically breaks the 1/8 chance logic)
 
 *editor code for button references
+
+*Wheels can be configured via editor (on WheelManager gameobject on the scene)
 
 
 
