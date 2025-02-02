@@ -1,6 +1,5 @@
 # Task
-Vertigo games task
-Hi
+Fortune Wheel Demo for Vertigo Games
 --------------------
 
 -Wheels can be configured via editor (on WheelManager gameobject on the scene)
